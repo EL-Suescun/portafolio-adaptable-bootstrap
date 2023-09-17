@@ -126,6 +126,11 @@ h1 {
   border-radius: 50%;
 }
 
+.experiencia .columna:hover i {
+  color: red;
+  background-color: white;
+}
+
 .experiencia-titulo {
   font-size: 25px;
   font-weight: bold;
